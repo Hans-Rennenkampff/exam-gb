@@ -1,0 +1,14 @@
+C:\Users\Haron\Desktop\gb_exam\bin\Debug\net8.0\gb_exam.exe
+C:\Users\Haron\Desktop\gb_exam\bin\Debug\net8.0\gb_exam.deps.json
+C:\Users\Haron\Desktop\gb_exam\bin\Debug\net8.0\gb_exam.runtimeconfig.json
+C:\Users\Haron\Desktop\gb_exam\bin\Debug\net8.0\gb_exam.dll
+C:\Users\Haron\Desktop\gb_exam\bin\Debug\net8.0\gb_exam.pdb
+C:\Users\Haron\Desktop\gb_exam\obj\Debug\net8.0\gb_exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haron\Desktop\gb_exam\obj\Debug\net8.0\gb_exam.AssemblyInfoInputs.cache
+C:\Users\Haron\Desktop\gb_exam\obj\Debug\net8.0\gb_exam.AssemblyInfo.cs
+C:\Users\Haron\Desktop\gb_exam\obj\Debug\net8.0\gb_exam.csproj.CoreCompileInputs.cache
+C:\Users\Haron\Desktop\gb_exam\obj\Debug\net8.0\gb_exam.dll
+C:\Users\Haron\Desktop\gb_exam\obj\Debug\net8.0\refint\gb_exam.dll
+C:\Users\Haron\Desktop\gb_exam\obj\Debug\net8.0\gb_exam.pdb
+C:\Users\Haron\Desktop\gb_exam\obj\Debug\net8.0\gb_exam.genruntimeconfig.cache
+C:\Users\Haron\Desktop\gb_exam\obj\Debug\net8.0\ref\gb_exam.dll
